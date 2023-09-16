@@ -56,8 +56,7 @@ SpaceCord Y is hosted on Vercel, ensuring a reliable and lightning-fast experien
 
 Curious about how SpaceCord Y handles tweets behind the scenes? Take a look at this snapshot from our development console:
 
-![Tweet Logic](![tweetlogic](https://github.com/yafet-a/chatter/assets/127161378/e38fa65d-9c83-4477-aaf6-40bfd0c701ca)
-)
+![Tweet Logic](https://github.com/yafet-a/chatter/assets/127161378/e38fa65d-9c83-4477-aaf6-40bfd0c701ca)
 
 In this screenshot, you can see the inner workings of our tweet creation process. We've leveraged the power of tRPC to seamlessly handle the creation and storage of tweets. Our code ensures that your tweets are stored securely and efficiently, ready to be shared with your followers.
 
