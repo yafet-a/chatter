@@ -14,6 +14,9 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
+- ![image](https://github.com/yafet-a/chatter/assets/127161378/16015900-b8c6-4bf3-bc1c-cfd62d1454cc)
+
+
 ## Learn More
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
