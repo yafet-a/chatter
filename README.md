@@ -1,31 +1,63 @@
-# Create T3 App
+# Welcome to SpaceCord Y
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+SpaceCord Y is an exciting social media platform that brings together the best of Discord and Twitter in a seamless user experience. It's not just another social app; it's a whole new space for connecting with friends, sharing thoughts, and engaging with the community.
 
-## What's next? How do I make an app with this?
+## Features
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+### Discord Integration
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+- **Log in with Discord**: Say goodbye to creating new accounts and passwords. SpaceCord Y allows you to log in effortlessly using your Discord credentials.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- **Profile Sync**: Your SpaceCord Y profile is automatically synced with your Discord account, including your profile picture and username.
 
-- ![image](https://github.com/yafet-a/chatter/assets/127161378/16015900-b8c6-4bf3-bc1c-cfd62d1454cc)
+### Twit-Space (Your Personal Timeline)
 
+- **Stay Updated**: Follow your favorite users and stay up-to-date with their latest tweets, or should we say "twits."
 
-## Learn More
+- **Tweet Like a Pro**: Express yourself in 280 characters or less, just like on your favorite microblogging platform.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+- **Retweet and Like**: Show your appreciation for tweets by liking and retweeting them. Spread the love and share the best content with your followers.
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+### Upcoming Features
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+SpaceCord Y is constantly evolving, and we have some incredible features in development:
 
-## How do I deploy this?
+### DM Galaxy (Direct Messaging)
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+- **Private Chats**: Get ready to slide into DMs like a pro. Soon, you'll have private conversations with your friends and followers.
+
+- **Group Chats**: Create group chats with multiple users for those intense gaming sessions or project collaborations.
+
+### SpaceCord Communities
+
+- **Join Communities**: Discover and join various communities based on your interests. Discuss, share, and collaborate with like-minded individuals.
+
+- **Community Leaders**: Each community has dedicated leaders who keep discussions engaging and ensure a welcoming environment.
+
+## Built with the t3 Web Stack
+
+SpaceCord Y is powered by the cutting-edge t3 Web Stack, which includes:
+
+- [Next.js](https://nextjs.org): The foundation of our web app, offering server-rendered React applications with ease.
+
+- [NextAuth.js](https://next-auth.js.org): Seamlessly integrate authentication with your Next.js app, including Discord OAuth2.
+
+- [Prisma](https://prisma.io): Our database toolkit of choice, ensuring efficient data handling and management.
+
+- [Tailwind CSS](https://tailwindcss.com): Craft stunning, responsive UIs with the power of utility-first CSS.
+
+- [tRPC](https://trpc.io): Supercharge your API with TypeScript and React, making data fetching a breeze.
+
+## Get Started
+
+Ready to embark on a space adventure with SpaceCord Y? It's simple:
+
+1. Log in using your Discord account.
+
+2. Explore your Twit-Space and start tweeting, following, and liking posts.
+
+3. Stay tuned for the upcoming features like DM Galaxy and SpaceCord Communities, which will take your social experience to the next level.
+
+SpaceCord Y is where Discord and Twitter unite to create a truly out-of-this-world social experience. Join us today and be a part of the SpaceCord community!
+
+*SpaceCord Y: Where Social Media Meets the Cosmos 🚀*
