@@ -13,7 +13,7 @@ function updateTextAreaSize(textArea?: HTMLTextAreaElement) {
 //If not authenticated dont render anything at all. (in order to avoid useLayourEffect error)
 export function NewTweetForm(){
     const session = useSession();
-    if (session.status !== "authenticated") return;
+    if (session.status !== "authenticated") return null;
 
     return <Form />
 }
@@ -34,9 +34,8 @@ function Form() {
 
     const createTweet = api.tweet.create.useMutation({
         onSuccess: (newTweet) =>{
-            console.log(newTweet);
-            
-        },
+            setInputValue("");
+        }
     });
     
     if (session.status !== "authenticated") return;

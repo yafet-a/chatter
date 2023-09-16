@@ -22,6 +22,8 @@ model Tweet{
     likes Like[]
 
     @@index([userId])
+// To avoid duplicate tweets when two tweets are created at the same time
+    @@unique([createdAt, id]) 
 }
 
 model Like {
