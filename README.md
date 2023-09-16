@@ -1,6 +1,6 @@
 # Welcome to SpaceCord Y 🚀
 
-SpaceCord Y is an exciting social media platform that brings together the best of Discord and Twitter in a seamless user experience. It's not just another social app; it's a whole new space for connecting with friends, sharing thoughts, and engaging with the community.
+SpaceCord Y is an exciting social media platform that brings together the best of Discord and Twitter(X) in a seamless user experience. It's not just another social app; it's a whole new space for connecting with friends, sharing thoughts, and engaging with the community.
 
 ## Features 🌟
 
