@@ -12,15 +12,14 @@ SpaceCord Y is an exciting social media platform that brings together the best o
 
 ### Twit-Space (Your Personal Timeline) 📜
 
-- **Stay Updated**: Follow your favorite users and stay up-to-date with their latest tweets, or should we say "twits."
+- **Stay Updated**: Follow your favorite users and stay up-to-date with their latest tweets.
 
-- **Tweet Like a Pro**: Express yourself in 280 characters or less, just like on your favorite microblogging platform.
 
-- **Retweet and Like**: Show your appreciation for tweets by liking and retweeting them. Spread the love and share the best content with your followers.
+- **Follow and Like**: Show your appreciation for tweets by liking and following them. Spread the love and share the best content with your community.
 
 ### Upcoming Features 🚧
 
-SpaceCord Y is constantly evolving, and we have some incredible features in development:
+I have some interesting features in development:
 
 ### DM Galaxy (Direct Messaging) ✉️
 
@@ -58,7 +57,7 @@ Curious about how SpaceCord Y handles tweets behind the scenes? Take a look at t
 
 ![Tweet Logic](https://github.com/yafet-a/chatter/assets/127161378/e38fa65d-9c83-4477-aaf6-40bfd0c701ca)
 
-In this screenshot, you can see the inner workings of our tweet creation process. We've leveraged the power of tRPC to seamlessly handle the creation and storage of tweets. Our code ensures that your tweets are stored securely and efficiently, ready to be shared with your followers.
+SpaceCord Y leverages the tRPC to seamlessly handle the creation and storage of tweets. Our code ensures that your tweets are stored securely and efficiently, ready to be shared with your followers.
 
 The tweet logic is designed to make posting as easy as possible, allowing you to focus on what matters—sharing your thoughts with the SpaceCord community. Join us today to experience the magic of SpaceCord Y!
 
